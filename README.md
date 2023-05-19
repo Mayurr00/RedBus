@@ -23,8 +23,9 @@ To switch to the master branch, use the following command: </br>
 $ git checkout master
 
 # Technology used
-The technology used in the development of Money Maven includes HTML,CSS, Flask, MySQL.
+The technology used in the development includes HTML,CSS, Javascript, Flask, MySQL.
 1. HTML is the standard markup language used for creating web pages. It was used to structure the content of our web application.
 2. CSS is a stylesheet language used for describing the presentation of web pages. We used CSS to style the user interface and make it visually appealing.
-3. Flask, a lightweight Python web framework, was utilized to handle the back-end functionality of the app or website. It allowed us to create routes, handle requests from users, and generate dynamic content. Flask's simplicity and flexibility enabled efficient development, routing of URLs, and integration of HTML templates.
-4. MySQL was used as the database management system for storing and managing data related to bus schedules, seat availability, operator details, and passenger bookings. We designed the database schema and used SQL queries to interact with the database, retrieve information, and perform necessary operations for data management.
+3. JavaScript was used to implement dynamic seat booking features in the app or website. Through JavaScript, we were able to enable real-time seat selection, update seat availability based on user actions, and dynamically display chosen seats, providing an interactive and seamless booking experience for passengers.
+4. Flask, a lightweight Python web framework, was utilized to handle the back-end functionality of the app or website. It allowed us to create routes, handle requests from users, and generate dynamic content. Flask's simplicity and flexibility enabled efficient development, routing of URLs, and integration of HTML templates.
+5. MySQL was used as the database management system for storing and managing data related to bus schedules, seat availability, operator details, and passenger bookings. We designed the database schema and used SQL queries to interact with the database, retrieve information, and perform necessary operations for data management.
